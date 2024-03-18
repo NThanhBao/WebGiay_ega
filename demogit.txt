@@ -1,0 +1,7 @@
+
+                                DEMO
+git init            git add .           git commit              git checkout        
+git status          git pull            git branch              git push 
+
+nhanh1 nhanh2 nhanh3 nhanh4 /.......
+asssz
